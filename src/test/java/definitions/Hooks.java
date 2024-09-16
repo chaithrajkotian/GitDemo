@@ -41,7 +41,10 @@ public class Hooks {
 	byte[] fileContent=	FileUtils.readFileToByteArray(sourcePath);
 		scenario.attach(fileContent, "image/png", "image");
 		
-		
+		System.out.println("hiiiiiiiiii");
+		System.out.println("hiiiiiiiiii");
+		System.out.println("hiiiiiiiiii");
+
 		
 		
 		}
